@@ -21,7 +21,7 @@ The project is inspired by the need to effectively manage time during various ta
     ```
 ## Requirements
 ```bash
-PyQt5==5.15.4
+pip install PyQt5
 ```
 ## Features
 
