@@ -22,11 +22,11 @@ The project is inspired by the need to effectively manage time during various ta
 
 ## Features
 
-1. **Dual Monitor Support**: The application can run timers on two different monitors.
-2. **Control Panel**: A centralized control panel for managing both timers.
-3. **Start/Pause/Reset**: Provides basic control over timer functions.
-4. **Slider for Time Input**: A slider for easy time input.
-5. **Always on Top**: The timer windows stay on top of other applications for easy visibility.
+
+1. **Control Panel**: A centralized control panel for managing both timers.
+2. **Start/Pause/Reset**: Provides basic control over timer functions.
+3. **Slider for Time Input**: A slider for easy time input.
+4. **Always on Top**: The timer windows stay on top of other applications for easy visibility.
 
 ## License
 
